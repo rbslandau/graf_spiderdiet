@@ -9,4 +9,4 @@ Script written by Nadin Graf, revised by Moritz Link and Ralf B. Schäfer
 
 Code.R:			 *Provides the R code to run the analyses and to plot the results.* 
 
-Graf_et_al_data_sia:			 *Provides all information on the data as well as the raw data.* 
+Graf_et_al_data_sia.xls:			 *Provides all information on the data as well as the raw data.* 
