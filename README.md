@@ -1,7 +1,7 @@
 Repo for the publication "Relationship between agricultural pesticides and the diet of riparian spiders"
 ====================================================================================================================
 
-This repo contains the script and data for the related manuscript under review.
+This repo contains the script and data for the related paper in Environmental Sciences Europe.
 
 Script written by Nadin Graf, revised by Moritz Link and Ralf B. Schäfer
   
